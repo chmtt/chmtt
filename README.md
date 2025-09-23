@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🌱 I’m currently learning **c**
+- 🚀 Currently building **Mental Stable** — launching soon on the App Store  
 
 - 💬 Ask me **anything**
 
-- 📫 How to reach me **jo.chmtt@gmail.com**
+- 📫 How to reach me **schmitt.jonas@me.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

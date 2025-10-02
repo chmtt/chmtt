@@ -5,7 +5,7 @@
 
 - 💬 Ask me **anything**
 
-- 📫 How to reach me **schmitt.jonas@me.com**
+- 📫 How to reach me **hey@chmtt.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

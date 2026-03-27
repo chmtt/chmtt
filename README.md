@@ -25,10 +25,10 @@
 </td>
 <td width="70%">
 
-### [Mental Stable - Depression Aid](https://apps.apple.com/app/mental-stable-depression-aid/id6751714425)
+### [Mental Stable - Calm & Breath](https://apps.apple.com/app/mental-stable-calm-breathe/id6751714425)
 
 **Real tools for real mental health**  
-A comprehensive mental wellness app featuring structured recovery programs, guided meditations, breathwork techniques, and AI-powered journaling.
+A comprehensive mental wellness app featuring structured recovery programs, guided meditations, breathwork techniques.
 
 [![Download on App Store](https://img.shields.io/badge/Download_on-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/mental-stable-depression-aid/id6751714425)
 

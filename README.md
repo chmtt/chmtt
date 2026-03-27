@@ -7,7 +7,6 @@
 ### 📍 Germany | Portugal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chmtt)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chmttco)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@chmtt.co)
 
 </div>
@@ -103,7 +102,6 @@ const jonas: Developer = {
 **Open to freelance projects and part-time opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chmtt)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chmttco)
 [![Email](https://img.shields.io/badge/Email-hey@chmtt.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@chmtt.co)
 
 </div>
